@@ -1,6 +1,6 @@
 # ChirsMauPen-test-tools
 Custom tools for offensive security, penetration testing, and red teaming
-# Cyderes Offensive Security Toolkit
+#  Offensive Security Toolkit
 
 This repo contains custom tools and scripts designed for use in real-world penetration testing, red teaming, and cloud security assessments. Built with speed and adaptability in mind.
 
